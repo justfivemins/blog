@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Just 5 Mins</title>
+    <link href="https://justfivemins.github.io/blog/feed.xml" rel="self" />
+    <link href="https://justfivemins.github.io/blog" />
+    <updated>2022-08-16T21:19:51+05:30</updated>
+    <author>
+        <name>Just5Mins</name>
+    </author>
+    <id>https://justfivemins.github.io/blog</id>
+
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>Just5Mins</name>
+        </author>
+        <link href="https://justfivemins.github.io/blog/hello-world.html"/>
+        <id>https://justfivemins.github.io/blog/hello-world.html</id>
+
+        <updated>2022-08-16T21:19:51+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Hi :)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><em><strong>Hi :)</strong></em></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
