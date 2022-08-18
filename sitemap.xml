@@ -5,7 +5,11 @@
 <loc>https://justfivemins.github.io/blog/</loc>
 </url>
 <url>
-<loc>https://justfivemins.github.io/blog/hello-world.html</loc>
-<lastmod>2022-08-19T02:30:38+05:30</lastmod>
+<loc>https://justfivemins.github.io/blog/hello-world/</loc>
+<lastmod>2022-08-19T02:37:38+05:30</lastmod>
+<image:image>
+<image:loc>https://justfivemins.github.io/blog/media\posts\1/1_OohqW5DGh9CQS4hLY5FXzA.png</image:loc>
+<image:title><![CDATA[Hi]]></image:title>
+</image:image>
 </url>
 </urlset>

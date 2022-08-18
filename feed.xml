@@ -3,7 +3,7 @@
     <title>Just 5 Mins</title>
     <link href="https://justfivemins.github.io/blog/feed.xml" rel="self" />
     <link href="https://justfivemins.github.io/blog" />
-    <updated>2022-08-19T02:30:38+05:30</updated>
+    <updated>2022-08-19T02:37:38+05:30</updated>
     <author>
         <name>Tryambak Dasgupta</name>
     </author>
@@ -14,17 +14,19 @@
         <author>
             <name>Tryambak Dasgupta</name>
         </author>
-        <link href="https://justfivemins.github.io/blog/hello-world.html"/>
-        <id>https://justfivemins.github.io/blog/hello-world.html</id>
+        <link href="https://justfivemins.github.io/blog/hello-world/"/>
+        <id>https://justfivemins.github.io/blog/hello-world/</id>
 
-        <updated>2022-08-19T02:30:38+05:30</updated>
+        <updated>2022-08-19T02:37:38+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://justfivemins.github.io/blog/media/posts/1/1_OohqW5DGh9CQS4hLY5FXzA.png" alt="Hi" />
                     Hi :)
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://justfivemins.github.io/blog/media/posts/1/1_OohqW5DGh9CQS4hLY5FXzA.png" alt="Hi" />
                 <p><em><strong>Hi :)</strong></em></p>
             ]]>
         </content>

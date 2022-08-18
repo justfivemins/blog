@@ -11,18 +11,19 @@
     },
     "items": [
         {
-            "id": "https://justfivemins.github.io/blog/hello-world.html",
-            "url": "https://justfivemins.github.io/blog/hello-world.html",
+            "id": "https://justfivemins.github.io/blog/hello-world/",
+            "url": "https://justfivemins.github.io/blog/hello-world/",
             "title": "Hello World",
             "summary": "Hi :)",
             "content_html": "<p><em><strong>Hi :)</strong></em></p>",
+            "image": "https://justfivemins.github.io/blog/media/posts/1/1_OohqW5DGh9CQS4hLY5FXzA.png",
             "author": {
                 "name": "Tryambak Dasgupta"
             },
             "tags": [
             ],
             "date_published": "2022-08-16T21:19:51+05:30",
-            "date_modified": "2022-08-19T02:30:38+05:30"
+            "date_modified": "2022-08-19T02:37:38+05:30"
         }
     ]
 }
