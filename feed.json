@@ -7,7 +7,7 @@
     "user_comment": "",
     "icon": "https://justfivemins.github.io/blog/media/website/Logo-Wip.png",
     "author": {
-        "name": "Just5Mins"
+        "name": "Tryambak Dasgupta"
     },
     "items": [
         {
@@ -17,12 +17,12 @@
             "summary": "Hi :)",
             "content_html": "<p><em><strong>Hi :)</strong></em></p>",
             "author": {
-                "name": "Just5Mins"
+                "name": "Tryambak Dasgupta"
             },
             "tags": [
             ],
             "date_published": "2022-08-16T21:19:51+05:30",
-            "date_modified": "2022-08-16T21:19:51+05:30"
+            "date_modified": "2022-08-19T02:30:38+05:30"
         }
     ]
 }

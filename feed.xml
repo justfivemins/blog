@@ -3,21 +3,21 @@
     <title>Just 5 Mins</title>
     <link href="https://justfivemins.github.io/blog/feed.xml" rel="self" />
     <link href="https://justfivemins.github.io/blog" />
-    <updated>2022-08-16T21:19:51+05:30</updated>
+    <updated>2022-08-19T02:30:38+05:30</updated>
     <author>
-        <name>Just5Mins</name>
+        <name>Tryambak Dasgupta</name>
     </author>
     <id>https://justfivemins.github.io/blog</id>
 
     <entry>
         <title>Hello World</title>
         <author>
-            <name>Just5Mins</name>
+            <name>Tryambak Dasgupta</name>
         </author>
         <link href="https://justfivemins.github.io/blog/hello-world.html"/>
         <id>https://justfivemins.github.io/blog/hello-world.html</id>
 
-        <updated>2022-08-16T21:19:51+05:30</updated>
+        <updated>2022-08-19T02:30:38+05:30</updated>
             <summary>
                 <![CDATA[
                     Hi :)
