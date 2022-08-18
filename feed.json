@@ -5,24 +5,11 @@
     "home_page_url": "https://justfivemins.github.io/blog",
     "feed_url": "https://justfivemins.github.io/blog/feed.json",
     "user_comment": "",
+    "icon": "https://justfivemins.github.io/blog/media/website/Logo-Wip.png",
     "author": {
         "name": "Just5Mins"
     },
     "items": [
-        {
-            "id": "https://justfivemins.github.io/blog/test-deb.html",
-            "url": "https://justfivemins.github.io/blog/test-deb.html",
-            "title": "Test Deb",
-            "summary": "Test Dev",
-            "content_html": "<p>Test Dev </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://justfivemins.github.io/blog/media/posts/2/gallery/AtlasPassiveBackground.png\" data-size=\"4096x3949\"><img loading=\"lazy\" src=\"https://justfivemins.github.io/blog/media/posts/2/gallery/AtlasPassiveBackground-thumbnail.png\" alt=\"\" width=\"720\" height=\"694\"></a></figure>\n</div></div>",
-            "author": {
-                "name": "Just5Mins"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-08-16T22:10:39+05:30",
-            "date_modified": "2022-08-18T02:25:58+05:30"
-        },
         {
             "id": "https://justfivemins.github.io/blog/hello-world.html",
             "url": "https://justfivemins.github.io/blog/hello-world.html",
