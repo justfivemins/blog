@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Just 5 Mins",
+    "title": "Just 5-Mins",
     "description": "",
     "home_page_url": "https://justfivemins.github.io/blog",
     "feed_url": "https://justfivemins.github.io/blog/feed.json",
@@ -10,6 +10,25 @@
         "name": "Tryambak Dasgupta"
     },
     "items": [
+        {
+            "id": "https://justfivemins.github.io/blog/why-housewives-not-homemakers/",
+            "url": "https://justfivemins.github.io/blog/why-housewives-not-homemakers/",
+            "title": "Why housewives not homemakers?",
+            "summary": "Gender roles have changed dramatically over the last few decades. Housewives, this word makes people visualise women dealing with household work. Society has always considered them to be jobless. But should we keep believing in this myth? Only a housewife is expected to nurture and&hellip;",
+            "content_html": "<p>Gender roles have changed dramatically over the last few decades. Housewives, this word makes people visualise women dealing with household work. Society has always considered them to be jobless. But should we keep believing in this myth? Only a housewife is expected to nurture and cultivate her family. But is this thinking correct any more? Isn't it the responsibility of even the male members of the family to nurture and cultivate their family? Let's break this stereotype.</p>\n<p>However, being a homemaker is not only responsibility of a woman. Before the 20th century, housewives were considered jobless by most of the people in their society. Do you think it is justified? A homemaker is not just a person who carries out household responsibilities but also work towards making their house, a home. In this era woman are not just housewives they are homemakers because they contribute a lot to the family and their work is not just constricted to doing household chores.</p>\n<p>The term housewives itself questions gender inequality. So, this gender inequality that has been going on for a century needs to be stopped. We should be careful to not discriminate against the female gender. The females are not born for doing household chores like cooking, cleaning, and all other household activities. They are not born just to manage our lives; they can have their own lives and also fulfil all their dreams.</p>\n<p>We have seen this in many cases in which females are emotionally and sometimes physically forced to do all the household activities. This is one of the biggest critical issues in our country. Our country always expects a woman to have a successful job life just to manage their house after marriage or to take care of their children. This is a problem that we should all be aware of. We should create a society where women are not forced to leave their jobs or sacrifice their dreams just because they are married or because they are housewives. Women are not made for just household work; they also have their own dreams or goals that they want to achieve.</p>\n<p>Our mothers are housewives as well as homemakers. We get back to our home every day to get that warmth and satisfaction after a hectic day. Also, it is very subjective. Let us ask you a question. What do you consider your mother to be—a housewife or a homemaker?</p>",
+            "image": "https://justfivemins.github.io/blog/media/posts/4/spacejoy-9M66C_w_ToM-unsplash-3.jpg",
+            "author": {
+                "name": "Tryambak Dasgupta"
+            },
+            "tags": [
+                   "housewives",
+                   "homemaker",
+                   "gender",
+                   "awareness"
+            ],
+            "date_published": "2022-08-19T03:41:01+05:30",
+            "date_modified": "2022-08-19T19:27:08+05:30"
+        },
         {
             "id": "https://justfivemins.github.io/blog/hello-world/",
             "url": "https://justfivemins.github.io/blog/hello-world/",
